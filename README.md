@@ -4,11 +4,11 @@
 
 <h2>APIs Que Trabalho</h2>
 
-<p>- Firebase
-- Discord JS ( Bots )
-- Minecraft Script API
-- Bootstrap
-- Firebase</p>
+<p>- Firebase</p>
+<p>- Discord JS ( Bots )</p>
+<p>- Minecraft Script API</p>
+<p>- Bootstrap</p>
+<p>- Firebase</p>
 
 <h2>Projetos</h2>
 
@@ -20,6 +20,6 @@
 <p>- Criação De Bots Discord ( V14 )</p>
 <p>- Criação De Addons ( MCPE )</p>
 <p>- Criação De Sites</p>
-- Correção De Bugs E Erros ( Script MCPE )
-- Configuração De Servidor ( Java 1.8 )
-- Testador De Bugs ( Server Java )</p>
+<p>- Correção De Bugs E Erros ( Script MCPE )</p>
+<p>- Configuração De Servidor ( Java 1.8 )</p>
+<p>- Testador De Bugs ( Server Java & Bedrock)</p>
