@@ -12,14 +12,14 @@
 
 <h2>Projetos</h2>
 
-<p>- GoldRoger V1 ( Bot Discord )
-- GoldRoger Tickets ( Bot Discord )</p>
+<p>- GoldRoger V1 ( Bot Discord )</p>
+<p>- GoldRoger Tickets ( Bot Discord )</p>
 
 <h2>Comissões Abertas</h2>
 
-<p>- Criação De Bots Discord ( V14 )
-- Criação De Addons ( MCPE )
-- Criação De Sites
+<p>- Criação De Bots Discord ( V14 )</p>
+<p>- Criação De Addons ( MCPE )</p>
+<p>- Criação De Sites</p>
 - Correção De Bugs E Erros ( Script MCPE )
 - Configuração De Servidor ( Java 1.8 )
 - Testador De Bugs ( Server Java )</p>
