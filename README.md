@@ -1,3 +1,25 @@
-🙋| Olá Eu Sou O Davi, Tenho 14 Anos E Estou Aprendendo JS
-📓| Estarei Postando Meus Progressos Em Open Source.
-Quem quiser dar dicas ou opiniões de códigos estarei lendo.
+<h1>Meu Perfil Dev!</h1>
+
+<p>Me chamo davi, tenho 14 anos e estou a quase 1 ano no mundo da programação. Sou focado na linguagem JavaScript e também uso HTML & CSS.</p>
+
+<h2>APIs Que Trabalho</h2>
+
+<p>- Firebase
+- Discord JS ( Bots )
+- Minecraft Script API
+- Bootstrap
+- Firebase</p>
+
+<h2>Projetos</h2>
+
+<p>- GoldRoger V1 ( Bot Discord )
+- GoldRoger Tickets ( Bot Discord )</p>
+
+<h2>Comissões Abertas</h2>
+
+<p>- Criação De Bots Discord ( V14 )
+- Criação De Addons ( MCPE )
+- Criação De Sites
+- Correção De Bugs E Erros ( Script MCPE )
+- Configuração De Servidor ( Java 1.8 )
+- Testador De Bugs ( Server Java )</p>
